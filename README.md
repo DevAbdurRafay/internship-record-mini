@@ -13,5 +13,5 @@
 <h2>Webpage Preview 2</h2>
 
 <p align="center">
-  <img src="Webpage Image 2.png" alt="Intern Webpage Preview" width="80%">
+  <img src="webpage Image 2.png" alt="Intern Webpage Preview" width="80%">
 </p>

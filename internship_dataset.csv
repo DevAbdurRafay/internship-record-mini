@@ -1,0 +1,101 @@
+Intern_ID,Department,Duration_Weeks,Mentor_Interaction,Enrollment_Date,Status
+INT-001,App Development,4,High,2024-01-26,In-Progress
+INT-002,App Development,8,Medium,2024-09-07,Dropout
+INT-003,Web Development,6,High,2024-04-14,Completed
+INT-004,App Development,12,High,2024-03-30,Dropout
+INT-005,Graphic Design,10,Medium,2024-02-02,Dropout
+INT-006,Data Analytics,4,High,2024-08-11,In-Progress
+INT-007,Web Development,12,Low,2024-01-28,Completed
+INT-008,Graphic Design,6,High,2025-07-12,Completed
+INT-009,Digital Marketing,6,High,2025-04-04,Completed
+INT-010,Graphic Design,8,Medium,2024-01-07,Completed
+INT-011,Content Writing,6,Medium,2025-03-08,Completed
+INT-012,UI/UX,8,High,2024-06-08,Completed
+INT-013,Web Development,8,Medium,2024-04-14,Dropout
+INT-014,Data Analytics,10,High,2024-04-09,Completed
+INT-015,UI/UX,8,Medium,2024-09-27,Completed
+INT-016,Content Writing,4,Medium,2025-04-15,Completed
+INT-017,Graphic Design,4,High,2025-01-22,In-Progress
+INT-018,Data Analytics,12,Low,2024-10-27,Dropout
+INT-019,Content Writing,12,High,2025-01-05,Completed
+INT-020,Graphic Design,6,Medium,2024-03-12,Completed
+INT-021,Data Analytics,6,High,2024-10-23,Completed
+INT-022,Data Analytics,6,High,2024-04-13,Dropout
+INT-023,Digital Marketing,8,High,2025-04-09,Completed
+INT-024,App Development,8,High,2024-06-15,Completed
+INT-025,UI/UX,8,Medium,2024-08-02,Completed
+INT-026,App Development,8,Low,2024-03-14,In-Progress
+INT-027,Graphic Design,6,Low,2025-06-30,In-Progress
+INT-028,App Development,6,Medium,2024-06-16,In-Progress
+INT-029,Digital Marketing,10,High,2024-10-03,Completed
+INT-030,App Development,12,High,2024-08-12,Completed
+INT-031,App Development,8,High,2024-02-27,Completed
+INT-032,Web Development,4,Low,2024-11-19,Completed
+INT-033,Digital Marketing,8,High,2024-03-08,Completed
+INT-034,Web Development,12,High,2024-11-18,Dropout
+INT-035,Web Development,10,High,2025-02-09,In-Progress
+INT-036,App Development,10,Medium,2024-05-26,Completed
+INT-037,UI/UX,6,High,2024-09-09,Completed
+INT-038,App Development,12,Medium,2025-07-05,Dropout
+INT-039,UI/UX,12,Medium,2025-03-14,Completed
+INT-040,Graphic Design,10,High,2025-01-05,Completed
+INT-041,Web Development,6,Low,2025-06-05,Dropout
+INT-042,Digital Marketing,4,High,2024-02-18,Completed
+INT-043,Content Writing,4,High,2024-06-05,Completed
+INT-044,App Development,6,Medium,2025-03-08,Dropout
+INT-045,Graphic Design,4,Low,2025-01-29,Dropout
+INT-046,Digital Marketing,12,High,2025-04-24,Dropout
+INT-047,Graphic Design,8,Medium,2025-07-20,Completed
+INT-048,Content Writing,4,Medium,2024-04-27,Completed
+INT-049,App Development,12,Medium,2024-09-30,Dropout
+INT-050,Content Writing,8,High,2024-04-24,Completed
+INT-051,UI/UX,10,High,2024-06-10,Completed
+INT-052,Digital Marketing,4,High,2024-09-26,Completed
+INT-053,Graphic Design,6,Low,2025-06-03,Completed
+INT-054,Data Analytics,8,Medium,2025-06-03,Dropout
+INT-055,Graphic Design,6,High,2024-06-05,Completed
+INT-056,UI/UX,6,High,2025-07-06,Completed
+INT-057,Content Writing,12,Low,2024-01-01,In-Progress
+INT-058,Graphic Design,8,Medium,2025-05-15,In-Progress
+INT-059,Data Analytics,4,Low,2025-01-06,Completed
+INT-060,Content Writing,8,Low,2024-09-02,Dropout
+INT-061,Data Analytics,6,Low,2025-08-03,In-Progress
+INT-062,Data Analytics,4,High,2025-05-12,Completed
+INT-063,Content Writing,4,High,2025-06-29,Completed
+INT-064,Content Writing,6,Low,2024-05-11,In-Progress
+INT-065,App Development,10,High,2025-07-16,Completed
+INT-066,Web Development,8,Medium,2025-06-24,Completed
+INT-067,Content Writing,12,High,2025-03-09,Completed
+INT-068,Web Development,12,Low,2024-07-24,Dropout
+INT-069,App Development,8,Medium,2025-02-12,Dropout
+INT-070,App Development,8,High,2025-03-24,In-Progress
+INT-071,Graphic Design,10,Low,2024-05-03,Dropout
+INT-072,Web Development,6,Medium,2024-03-06,Completed
+INT-073,UI/UX,4,High,2025-08-25,Completed
+INT-074,Graphic Design,6,Medium,2025-08-25,Completed
+INT-075,Web Development,4,High,2024-03-13,Completed
+INT-076,App Development,4,Low,2024-08-22,Completed
+INT-077,Data Analytics,4,High,2024-12-04,Completed
+INT-078,Data Analytics,12,Low,2024-08-31,Completed
+INT-079,UI/UX,10,Medium,2024-08-07,Dropout
+INT-080,Graphic Design,6,High,2025-08-07,Completed
+INT-081,Graphic Design,10,High,2024-09-05,Completed
+INT-082,Content Writing,10,Medium,2025-02-20,Dropout
+INT-083,Web Development,4,High,2024-04-09,Completed
+INT-084,App Development,10,High,2024-12-28,Completed
+INT-085,Digital Marketing,10,High,2025-04-23,Completed
+INT-086,Content Writing,4,Medium,2024-04-10,Completed
+INT-087,Data Analytics,10,Medium,2024-12-13,Completed
+INT-088,Content Writing,4,Medium,2024-09-11,Completed
+INT-089,Web Development,6,Medium,2025-07-03,Completed
+INT-090,Digital Marketing,6,Low,2025-03-08,Completed
+INT-091,Web Development,8,High,2025-04-18,Completed
+INT-092,Web Development,4,Low,2025-03-29,In-Progress
+INT-093,Content Writing,12,High,2024-04-10,Completed
+INT-094,Data Analytics,12,Low,2024-01-16,Dropout
+INT-095,Data Analytics,6,Medium,2024-06-19,Completed
+INT-096,Digital Marketing,10,High,2025-05-07,In-Progress
+INT-097,Web Development,10,Low,2024-03-01,Dropout
+INT-098,Web Development,10,High,2024-01-03,Completed
+INT-099,Digital Marketing,8,Medium,2025-04-10,In-Progress
+INT-100,UI/UX,10,Low,2025-07-23,Dropout
